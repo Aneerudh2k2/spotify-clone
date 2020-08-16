@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,18 @@
   to {
     transform: rotate(360deg);
   }
+} */
+*{
+  margin: 0;
+}
+
+body {
+  margin: 0;
+  font-family: "Ubuntu","Cantarell","Fira Sans","Droid Sans", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code{
+  font-family: source-code-pro, Menlo, Monaco, monospace, Arial, Helvetica, sans-serif;
 }
