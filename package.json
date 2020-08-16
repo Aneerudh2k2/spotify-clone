@@ -1,5 +1,4 @@
 {
-  "homepage": "http://Aneerudh2k2.github.io/spotify-clone-app",
   "name": "spotify-clone-app",
   "version": "0.1.0",
   "private": true,
@@ -15,8 +14,6 @@
     "spotify-web-api-js": "^1.5.0"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
